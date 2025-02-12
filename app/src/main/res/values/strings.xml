@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Moodjournal</string>
+<string-array name="spinner">
+    <item>Happy</item>
+    <item>Sad</item>
+    <item>Confused</item>
+    <item>Angry</item>
+    <item>Sick</item>
+    <item>Lovely</item>
+</string-array>
+    </resources>
